@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memoryGame/static/css/main.52b5d3a8.css",
+    "main.js": "/memoryGame/static/js/main.bfe5cadb.js",
+    "index.html": "/memoryGame/index.html",
+    "main.52b5d3a8.css.map": "/memoryGame/static/css/main.52b5d3a8.css.map",
+    "main.bfe5cadb.js.map": "/memoryGame/static/js/main.bfe5cadb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b5d3a8.css",
+    "static/js/main.bfe5cadb.js"
+  ]
+}
