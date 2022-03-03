@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.App {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: monospace;
+}
